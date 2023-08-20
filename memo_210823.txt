@@ -1,0 +1,13 @@
+This is a memo file created at 9.8.2023 1.57. Nights are getting dark here  now.
+
+This is a chnage made at 10.8.2023 1.52 o'clock.
+
++++ 11.8.2023 14:56 o'clock: more text was added for version 2. 
+
++++ 18.8.2023 00.42 o'clock this file was modified as part of memo_branch.
+
++++ 18.8.2023 00.45 o'clock this file was modified again as part of memo_branch.
+
++++ 19.8.2023 1:54 o'clock: a new line was dded to the memo file to update changes.
+
++++ 21.08.23 0:16 o'clock This memo was updated to update the files in a meaningful way. 
